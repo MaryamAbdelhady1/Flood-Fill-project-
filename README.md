@@ -24,8 +24,8 @@ pip install tk
 
 Clone the repository:
 ```bash
-git clone https://github.com/username/FloodFillProject.git
-cd FloodFillProject
+git clone https://github.com/MaryamAbdelhady1/Flood-Fill-project-.git
+cd Flood-Fill-project
 ```
 Run the main Python file:
 
